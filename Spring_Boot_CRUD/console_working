@@ -1,0 +1,245 @@
+C:\MyCode\Spring_Boot_practice>help
+Для получения сведений об определенной команде наберите HELP <имя команды>
+ASSOC          Вывод либо изменение сопоставлений по расширениям имен файлов.
+ATTRIB         Отображение и изменение атрибутов файлов.
+BREAK        Включение и выключение режима обработки комбинации клавиш CTRL+C.
+BCDEDIT        Задает свойства в базе данных загрузки для управления начальной
+               загрузкой.
+CACLS          Отображение и редактирование списков управления доступом (ACL)
+               к файлам.
+CALL           Вызов одного пакетного файла из другого.
+CD             Вывод имени либо смена текущей папки.
+CHCP           Вывод либо установка активной кодовой страницы.
+CHDIR          Вывод имени либо смена текущей папки.
+CHKDSK         Проверка диска и вывод статистики.
+CHKNTFS        Отображение или изменение выполнения проверки диска во время
+               загрузки.
+CLS            Очистка экрана.
+CMD            Запуск еще одного интерпретатора командных строк Windows.
+COLOR       Установка цветов переднего плана и фона, используемых по умолчанию.
+COMP           Сравнение содержимого двух файлов или двух наборов файлов.
+COMPACT        Отображение и изменение сжатия файлов в разделах NTFS.
+CONVERT        Преобразует тома FAT в NTFS. Вы не можете
+               преобразовать текущий диск.
+COPY           Копирование одного или нескольких файлов в другое место.
+DATE           Вывод либо установка текущей даты.
+DEL            Удаление одного или нескольких файлов.
+DIR            Вывод списка файлов и подпапок из указанной папки.
+DISKPART       Отображает или настраивает свойства раздела диска.
+DOSKEY         Редактирует командные строки, повторно вызывает команды Windows и создает
+               макросы.
+DRIVERQUERY    Отображает текущее состояние и свойства драйвера устройства.
+ECHO           Отображает сообщения и переключает режим отображения команд на экране.
+ENDLOCAL       Завершает локализацию изменений среды для пакетного файла.
+ERASE          Удаляет один или несколько файлов.
+EXIT           Завершает работу программы CMD.EXE (интерпретатора командных строк).
+FC             Сравнивает два файла или два набора файлов и
+               отображает различия между ними.
+FIND           Ищет текстовую строку в одном или нескольких файлах.
+FINDSTR        Ищет строки в файлах.
+FOR            Запускает указанную команду для каждого из файлов в наборе.
+FORMAT         Форматирует диск для работы с Windows.
+FSUTIL         Отображает или настраивает свойства файловой системы.
+FTYPE          Отображает либо изменяет типы файлов, используемые при
+               сопоставлении по расширениям имен файлов.
+GOTO           Направляет интерпретатор команд Windows в отмеченную строку
+               пакетной программы.
+GPRESULT       Отображает информацию о групповой политике для компьютера или пользователя.
+GRAFTABL       Позволяет Windows отображать расширенный набор символов в
+               графическом режиме.
+HELP           Выводит справочную информацию о командах Windows.
+ICACLS         Отображает, изменяет, архивирует или восстанавливает
+               списки ACL для файлов и каталогов.
+IF             Выполняет условную обработку в пакетных программах.
+LABEL          Создает, изменяет или удаляет метки тома для дисков.
+MD             Создает каталог.
+MKDIR          Создает каталог.
+MKLINK         Создает символьные ссылки и жесткие связи
+MODE           Настраивает системные устройства.
+MORE           Последовательно отображает данные по частям размером в один экран.
+MOVE           Перемещает один или несколько файлов из одного каталога
+               в другой.
+OPENFILES      Отображает файлы, открытые для файлового ресурса удаленными пользователями.
+PATH           Отображает или устанавливает путь поиска исполняемых файлов.
+PAUSE          Приостанавливает выполнение пакетного файла и выводит сообщение.
+POPD           Восстанавливает предыдущее значение текущего каталога,
+               сохраненное с помощью команды PUSHD.
+PRINT          Выводит на печать содержимое текстового файла.
+PROMPT         Изменяет командную строку Windows.
+PUSHD          Сохраняет текущий каталог, затем изменяет его.
+RD             Удаляет каталог.
+RECOVER        Восстанавливает данные, которые можно прочитать, с плохого или поврежденного диска.
+REM            Записывает комментарии в пакетные файлы или файл CONFIG.SYS.
+REN            Переименовывает файлы.
+RENAME         Переименовывает файлы.
+REPLACE        Заменяет файлы.
+RMDIR          Удаляет каталог.
+ROBOCOPY       Улучшенная служебная программа копирования файлов и деревьев папок
+SET            Показывает, устанавливает или удаляет переменные среды Windows.
+SETLOCAL       Начинает локализацию изменений среды в пакетном файле.
+SC             Отображает или настраивает службы (фоновые процессы).
+SCHTASKS       Выполняет команды и запускает программы на компьютере по расписанию.
+SHIFT          Изменяет положение заменяемых параметров в пакетных файлах.
+SHUTDOWN       Позволяет локально или удаленно завершить работу компьютера.
+SORT           Сортирует ввод.
+START          Выполняет указанную программу или команду в отдельном окне.
+SUBST          Связывает путь с именем диска.
+SYSTEMINFO     Отображает сведения о свойствах и конфигурации определенного компьютера.
+TASKLIST       Отображает все выполняемые задачи, включая службы.
+TASKKILL       Прекращение или остановка процесса либо приложения.
+TIME           Отображает или устанавливает системное время.
+TITLE          Назначает заголовок окна для сеанса CMD.EXE.
+TREE           Графически отображает структуру каталогов диска или
+          пути.
+TYPE           Отображает содержимое текстовых файлов.
+VER            Отображает сведения о версии Windows.
+VERIFY         Устанавливает режим проверки в Windows правильности записи
+               файлов на диск.
+VOL            Отображает метку и серийный номер тома для диска.
+XCOPY          Копирует файлы и деревья папок.
+WMIC           Отображает сведения об инструментарии WMI в интерактивной командной оболочке.
+
+Дополнительные сведения о средствах см. в описании программ командной строки в справке.
+
+C:\MyCode\Spring_Boot_practice>attrib
+A                    C:\MyCode\Spring_Boot_practice\.gitignore
+A                    C:\MyCode\Spring_Boot_practice\HELP.md
+A                    C:\MyCode\Spring_Boot_practice\mvnw
+A                    C:\MyCode\Spring_Boot_practice\mvnw.cmd
+A                    C:\MyCode\Spring_Boot_practice\pom.xml
+
+C:\MyCode\Spring_Boot_practice>mvnw package
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -------------------< ru.ma1gus:Spring_Boot_practice >-------------------
+[INFO] Building Spring_Boot_practice 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:3.2.0:resources (default-resources) @ Spring_Boot_practice ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Using 'UTF-8' encoding to copy filtered properties files.
+[INFO] Copying 1 resource
+[INFO] Copying 1 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.10.1:compile (default-compile) @ Spring_Boot_practice ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\MyCode\Spring_Boot_practice\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:3.2.0:testResources (default-testResources) @ Spring_Boot_practice ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Using 'UTF-8' encoding to copy filtered properties files.
+[INFO] skip non existing resourceDirectory C:\MyCode\Spring_Boot_practice\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.10.1:testCompile (default-testCompile) @ Spring_Boot_practice ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\MyCode\Spring_Boot_practice\target\test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ Spring_Boot_practice ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.pom (7.0 kB at 5.3 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.2/surefire-providers-2.22.2.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.2/surefire-providers-2.22.2.pom (2.5 kB at 9.2 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom (2.2 kB at 8.8 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom (1.2 kB at 4.0 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pomDownloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pom (2.4 kB at 7.6 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom (2.0 kB at 7.2 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom (1.7 kB at 7.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jarDownloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar (2.2 kB at 11 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar (7.1 kB at 6.9 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.jar (66 kB at 38 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar (95 kB at 53 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar (135 kB at 75 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar (78 kB at 43 kB/s)
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests
+08:20:01.194 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+08:20:01.205 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+08:20:01.246 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+08:20:01.258 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests], using SpringBootContextLoader
+08:20:01.262 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests]: class path resource [ru/ma1gus/spring_boot_practice/SpringBootPracticeApplicationTests-context.xml] does not exist
+08:20:01.263 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests]: class path resource [ru/ma1gus/spring_boot_practice/SpringBootPracticeApplicationTestsContext.groovy] does not exist
+08:20:01.263 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+08:20:01.264 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests]: SpringBootPracticeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+08:20:01.316 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests]
+08:20:01.399 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [C:\MyCode\Spring_Boot_practice\target\classes\ru\ma1gus\spring_boot_practice\SpringBootPracticeApplication.class]
+08:20:01.401 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration ru.ma1gus.spring_boot_practice.SpringBootPracticeApplication for test class ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests
+08:20:01.526 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - @TestExecutionListeners is not present for class [ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests]: using defaults.
+08:20:01.527 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+08:20:01.538 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Skipping candidate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener] due to a missing dependency. Specify custom listener classes or make the default listener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+08:20:01.539 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Skipping candidate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] due to a missing dependency. Specify custom listener classes or make the default listener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+08:20:01.539 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6e005dc9, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@7ceb3185, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@436c81a3, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3561c410, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@59e32960, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7c214cc0, org.springframework.test.context.event.EventPublishingTestExecutionListener@5b67bb7e, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@609db546, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@20f5281c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@56c4278e, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@301eda63, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3d246ea3, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@341814d3]
+08:20:01.542 [main] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: context [DefaultTestContext@54eb2b70 testClass = SpringBootPracticeApplicationTests, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@45a37759 testClass = SpringBootPracticeApplicationTests, locations = '{}', classes = '{class ru.ma1gus.spring_boot_practice.SpringBootPracticeApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@4e7912d8, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@41e1e210, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@1b6e1eff, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@48974e45, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@3c73951, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@1e965684], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true]], class annotated with @DirtiesContext [false] with mode [null].
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.7.1)
+
+2022-07-15 08:20:02.054  INFO 11224 --- [           main] r.m.s.SpringBootPracticeApplicationTests : Starting SpringBootPracticeApplicationTests using Java 17.0.2 on LAPTOP-H6SUJOCB with PID 11224 (started by Acer in C:\MyCode\Spring_Boot_practice)
+2022-07-15 08:20:02.061  INFO 11224 --- [           main] r.m.s.SpringBootPracticeApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2022-07-15 08:20:04.761  INFO 11224 --- [           main] r.m.s.SpringBootPracticeApplicationTests : Started SpringBootPracticeApplicationTests in 3.17 seconds (JVM running for 4.36)
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.242 s - in ru.ma1gus.spring_boot_practice.SpringBootPracticeApplicationTests
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- maven-jar-plugin:3.2.2:jar (default-jar) @ Spring_Boot_practice ---
+[INFO] Building jar: C:\MyCode\Spring_Boot_practice\target\Spring_Boot_practice-0.0.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- spring-boot-maven-plugin:2.7.1:repackage (repackage) @ Spring_Boot_practice ---
+[INFO] Replacing main artifact with repackaged archive
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  15.998 s
+[INFO] Finished at: 2022-07-15T08:20:07+03:00
+[INFO] ------------------------------------------------------------------------
+
+C:\MyCode\Spring_Boot_practice>cd target
+
+C:\MyCode\Spring_Boot_practice\target>attrib
+A                    C:\MyCode\Spring_Boot_practice\target\Spring_Boot_practice-0.0.1-SNAPSHOT.jar
+A                    C:\MyCode\Spring_Boot_practice\target\Spring_Boot_practice-0.0.1-SNAPSHOT.jar.original
+
+C:\MyCode\Spring_Boot_practice\target>java -jar Spring_Boot_practice-0.0.1-SNAPSHOT.jar
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.7.1)
+
+2022-07-15 08:22:52.397  INFO 23172 --- [           main] r.m.s.SpringBootPracticeApplication      : Starting SpringBootPracticeApplication v0.0.1-SNAPSHOT using Java 17.0.2 on LAPTOP-H6SUJOCB with PID 23172 (C:\MyCode\Spring_Boot_practice\target\Spring_Boot_practice-0.0.1-SNAPSHOT.jar started by Acer in C:\MyCode\Spring_Boot_practice\target)
+2022-07-15 08:22:52.402  INFO 23172 --- [           main] r.m.s.SpringBootPracticeApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-07-15 08:22:54.334  INFO 23172 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-07-15 08:22:54.349  INFO 23172 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-15 08:22:54.349  INFO 23172 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-15 08:22:54.506  INFO 23172 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-15 08:22:54.521  INFO 23172 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1993 ms
+2022-07-15 08:22:55.353  INFO 23172 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-15 08:22:55.369  INFO 23172 --- [           main] r.m.s.SpringBootPracticeApplication      : Started SpringBootPracticeApplication in 3.838 seconds (JVM running for 4.512)
+2022-07-15 08:23:21.130  INFO 23172 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-15 08:23:21.131  INFO 23172 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-15 08:23:21.132  INFO 23172 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+Hello World!
+^C
+C:\MyCode\Spring_Boot_practice\target>stopdsf
